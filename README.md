@@ -1,0 +1,2 @@
+This is the homepage design for Shop.co, an online fashion e-commerce store offering a wide range of clothing from top international brands.
+This is the homepage design for Shop.co, an online fashion e-commerce store. The website is designed to provide a seamless shopping experience, featuring a variety of high-quality clothing from top international brands. The layout emphasizes user engagement, easy navigation, and visually appealing product displays.
